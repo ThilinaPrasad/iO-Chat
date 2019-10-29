@@ -1,6 +1,6 @@
 # iO-Chat
 
-![System upto now](https://raw.githubusercontent.com/maneeshaindrachapa/FYP/master/WorkInProgress/Docs/images/screenshot.png)
+![System upto now]([https://raw.githubusercontent.com/ThilinaPrasad/iO-Chat/master/Graphics/login.png](https://raw.githubusercontent.com/ThilinaPrasad/iO-Chat/master/Graphics/login.png))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU0OTQ5OTkyXX0=
+eyJoaXN0b3J5IjpbNDA2MDAwNjA4XX0=
 -->
