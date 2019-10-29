@@ -8,7 +8,7 @@ This application supports user authentication with Google OAuth 2.0 and inbuild 
 ![login](https://raw.githubusercontent.com/ThilinaPrasad/iO-Chat/master/Graphics/login.png)
 
 - Chat View
-![Chat View](https://raw.githubusercontent.com/ThilinaPrasad/iO-Chat/master/Graphics/login.png)
+![Chat View](https://raw.githubusercontent.com/ThilinaPrasad/iO-Chat/master/Graphics/chat.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NjEzMzk1Ml19
+eyJoaXN0b3J5IjpbMTQzOTM4OTUyOV19
 -->
